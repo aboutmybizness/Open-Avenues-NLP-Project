@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aboutmybizness
 - 👀 I’m interested in using coding to build projects like my family history.
-- 🌱 I’m currently learning Python as well as general web development.
+- 🌱 I’m currently learning Python for data science as well as for general web development.
 - 💞️ I’m looking to collaborate on anything related to machine learning. I have experience in NLP and data exploration.
 - 📫 How to reach me ... ambroisekenley01@gmail.com
 
